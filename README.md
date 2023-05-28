@@ -1,2 +1,2 @@
-# energy-utilization
+# Energy Utilization
 This project consist of energy utilization for cloud based embedded controller when various system is assembled on the controller is chosen to be analyzed. Cloud based embedded controllers are chosen to emulate the real time IoT environment. There are many factors that contributes to the difference in energy consumption of a system. Few parameters will be used in this project to identify the most energy efficient embedded controller for basic or simple IoT applications.
