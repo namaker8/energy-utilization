@@ -1,1 +1,3 @@
-A test bed consisting of two controllers with built-in Wi-Fi module and three sensors are set up in the lab.
+A test bed consisting of two controllers with built-in Wi-Fi module and three sensors are set up in the lab. 
+All the data were sent to the cloud to emulate the real time IoT environment.
+The most important element in this project is the controller used. Raspberry Pi 3 Model B and nodeMCU are chosen based on its advantages and disadvantages
